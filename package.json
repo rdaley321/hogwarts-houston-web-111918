@@ -10,6 +10,7 @@
     "semantic-ui-css": "^2.2.11"
   },
   "devDependencies": {
+    "concurrently": "^4.0.1",
     "autoprefixer": "7.1.0",
     "babel-core": "6.24.1",
     "babel-eslint": "7.2.3",
@@ -50,7 +51,7 @@
     "whatwg-fetch": "2.0.3"
   },
   "scripts": {
-    "start": "node scripts/start.js",
+    "start": "concurrently --kill-others \"json-server --watch db.json --port 3001\" \"node scripts/start.js\"",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js --env=jsdom"
   },

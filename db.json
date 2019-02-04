@@ -1,0 +1,121 @@
+{
+    "hogs": [
+        {
+        "id": 6,
+        "name": "Mudblood",
+        "specialty": "Mediocre magic",
+        "greased": false,
+        "weight": 2,
+        "highest medal achieved": "bronze",
+        "image":"https://res.cloudinary.com/dabeyvbyw/image/upload/v1544712625/mudblood.jpg"
+        },
+        {
+        "id": 7,
+        "name": "Porkchop",
+        "specialty": "Making friends",
+        "greased": true,
+        "weight": 1.6,
+        "highest medal achieved": "silver",
+        "image":"https://res.cloudinary.com/dabeyvbyw/image/upload/v1544712625/porkchop.jpg"
+        },
+        {
+        "id": 8,
+        "name": "Cherub",
+        "specialty": "truffle finder",
+        "greased": false,
+        "weight": 0.7,
+        "highest medal achieved": "gold",
+        "image":"https://res.cloudinary.com/dabeyvbyw/image/upload/v1544712623/cherub.png"
+        },
+        {
+        "id": 9,
+        "name": "Piggy smalls",
+        "specialty": "Massivity",
+        "greased": true,
+        "weight": 5.1,
+        "highest medal achieved": "platinum",
+        "image":"https://res.cloudinary.com/dabeyvbyw/image/upload/v1544712625/piggy_smalls.jpg"
+        },
+        {
+        "id": 10,
+        "name": "Trouble",
+        "specialty": "Racing",
+        "greased": true,
+        "weight": 1.7,
+        "highest medal achieved": "gold",
+        "image":"https://res.cloudinary.com/dabeyvbyw/image/upload/v1544712627/trouble.jpg"
+        },
+        {
+        "id": 11,
+        "name": "Sobriety",
+        "specialty": "Expert Witness",
+        "greased": false,
+        "weight": 2.2,
+        "highest medal achieved": "silver",
+        "image":"https://res.cloudinary.com/dabeyvbyw/image/upload/v1544712626/sobriety.jpg"
+        },
+        {
+        "id": 12,
+        "name": "Rainbowdash",
+        "specialty": "Union Busting",
+        "greased": false,
+        "weight": 3.7,
+        "highest medal achieved": "wood",
+        "image":"https://res.cloudinary.com/dabeyvbyw/image/upload/v1544712626/rainbowdash.jpg"
+        },
+        {
+        "id": 13,
+        "name": "TruffleShuffle",
+        "specialty": "Finding truffles",
+        "greased": true,
+        "weight": 4,
+        "highest medal achieved": "gold",
+        "image":"https://res.cloudinary.com/dabeyvbyw/image/upload/v1544712627/truffleshuffle.jpg"
+        },
+        {
+        "id": 1,
+        "name": "Bay of Pigs",
+        "specialty": "Hamphlet Distribution",
+        "greased": false,
+        "weight": 2.8,
+        "highest medal achieved": "diamond",
+        "image":"https://res.cloudinary.com/dabeyvbyw/image/upload/v1544712623/bay_of_pigs.jpg"
+        },
+        {
+        "id": 2,
+        "name": "The Prosciutto Concern",
+        "specialty": "truffle finder",
+        "greased": false,
+        "weight": 2.3,
+        "highest medal achieved": "bronze",
+        "image":"https://res.cloudinary.com/dabeyvbyw/image/upload/v1544712627/the_prosciutto_concern.jpg"
+        },
+        {
+        "id": 3,
+        "name": "Galaxy Note",
+        "specialty": "Airport Security",
+        "greased": true,
+        "weight": 1.9,
+        "highest medal achieved": "diamond",
+        "image":"https://res.cloudinary.com/dabeyvbyw/image/upload/v1544712623/galaxy_note.jpg"
+        },
+        {
+        "id": 4,
+        "name": "Leggo My Eggo",
+        "specialty": "Babysitting",
+        "greased": true,
+        "weight": 3.3,
+        "highest medal achieved": "platinum",
+        "image":"https://res.cloudinary.com/dabeyvbyw/image/upload/v1544712624/leggo_my_eggo.jpg"
+        },
+        {
+        "id": 5,
+        "name": "Augustus Gloop",
+        "specialty": "Vacuum tubes",
+        "greased": true,
+        "weight": 4.1,
+        "highest medal achieved": "wood",
+        "image":"https://res.cloudinary.com/dabeyvbyw/image/upload/v1544712623/augustus_gloop.jpg"
+        }
+    ]
+}

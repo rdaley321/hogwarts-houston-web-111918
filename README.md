@@ -1,7 +1,5 @@
 # Hogwarts: The React app for fans of prize-winning pigs
 
-## React Week 1 Project
-
 ## Project goals:
 
 * create an index displaying all hog tiles
@@ -15,15 +13,13 @@
 
 ## Project requirements:
 
-* functional and container components (at least one of each, likely you'll have several of each)
 * components using state and props
 * re-renders based on client-side events
 
 ## What we have so far:
 
-* a file containing all our hog data imported into App.js
-* a folder of hog images
-* a functional nav component rendered in our App.js
+* an api which serves hogs at `http://localhost:3001/hogs`
+* an App and Nav component
 
 ## Trying to figure out where to start?
 

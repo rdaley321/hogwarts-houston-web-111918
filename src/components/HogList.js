@@ -18,6 +18,7 @@ class HogList extends React.Component {
       case 'weight':
         data = data.sort((a,b) => b.weight - a.weight)
       break
+      default:
     }
 
     randomdiv = data.map(data => {
@@ -25,7 +26,7 @@ class HogList extends React.Component {
     })
 
     return (
-      <div className="ui grid container" style={{'margin-top': '15px'}}>
+      <div className="ui grid container" style={{marginTop: '15px'}}>
         {randomdiv}
       </div>
     )
